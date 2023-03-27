@@ -14,7 +14,7 @@ const margin = 1.5
 func _ready():
 	change_mode("move")
 	
-func _physics_process(delta):
+func _physics_process(_delta):
 	var velocity = Vector2.ZERO
 	player = get_node_or_null("/root/Game/Player_Container/Player")
 	if player != null and mode != "die":
