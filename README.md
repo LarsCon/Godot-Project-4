@@ -1,29 +1,24 @@
-```
-# Exercise-04c-Enemies
+# 2D Platformer
+It's a simple 2D platformer
+3/26/2023
 
-Exercise for MSCH-C220
-
-An exercise for the 2D Platformer project, exploring attacking and three different enemy types.
+# Description
+Jump using up, space to attack
 
 ## Implementation
-
-Built using Godot 3.5
-
-The player sprite is an adaptation of [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
-
-The [tilemap](https://kenney.nl/assets/abstract-platformer) and the [coin sprite](https://kenney.nl/assets/puzzle-pack-2](https://kenney.nl/assets/puzzle-pack-2) are provided by Kenney.nl.
-
-The enemies are from the [Medieval Fantasy Character Pack by OcO](https://oco.itch.io/medieval-fantasy-character-pack). CC0 Licensed
+<ul>
+  <li>Music</li>
+  <li>Enemy Death Sounds</li>
+  <li>Gold system</li>
+  <li>Background (tried parallax, camera seemed to make it bug out)</li>
+  <li>Scenery</li>
+ </ul>
 
 ## References
-
-None
+Music: https://www.youtube.com/watch?v=5bn3Jmvep1k&list=PLgLnwwS3HuoQ2Ew3xD6sPSX6n4oSGBpla&index=12&t=726s&ab_channel=xDeviruchi
 
 ## Future Development
+A way to win, struggling to figure it out currently
 
-None
-
-## Created by 
-
+## Created by
 Lars Conard
-```
