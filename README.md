@@ -2,7 +2,7 @@
 It's a simple 2D platformer
 3/26/2023
 
-Description
+# Description
 Jump using up, space to attack
 
 ## Implementation
