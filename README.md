@@ -6,11 +6,12 @@ Description
 Jump using up, space to attack
 
 ## Implementation
-Music
-Enemy Death Sounds
-Gold system
-Background (tried parallax, camera seemed to make it bug out)
-Scenery
+<ul>
+  <li>Music</li>
+  <li>Enemy Death Sounds</li>
+  <li>Gold system</li>
+  <li>Background (tried parallax, camera seemed to make it bug out)</li>
+  <li>Scenery</li>
 
 ## References
 Music: https://www.youtube.com/watch?v=5bn3Jmvep1k&list=PLgLnwwS3HuoQ2Ew3xD6sPSX6n4oSGBpla&index=12&t=726s&ab_channel=xDeviruchi
