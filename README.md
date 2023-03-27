@@ -12,6 +12,7 @@ Jump using up, space to attack
   <li>Gold system</li>
   <li>Background (tried parallax, camera seemed to make it bug out)</li>
   <li>Scenery</li>
+ </ul>
 
 ## References
 Music: https://www.youtube.com/watch?v=5bn3Jmvep1k&list=PLgLnwwS3HuoQ2Ew3xD6sPSX6n4oSGBpla&index=12&t=726s&ab_channel=xDeviruchi
